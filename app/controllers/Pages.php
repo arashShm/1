@@ -1,9 +1,9 @@
 <?php 
 
-class Pages{
+class Pages extends Controllers{
 
 
     public function index(){
-        echo " it is index page" ;
+        $this->view("pages/index ");
     }
 }
