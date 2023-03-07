@@ -1,0 +1,15 @@
+{
+    "name": "bcz/mm",
+    "autoload": {
+        "psr-4": {
+            "Bcz\\Mm\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "arashShm",
+            "email": "124424567+arashShm@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
